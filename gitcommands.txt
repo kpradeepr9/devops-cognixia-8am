@@ -24,3 +24,14 @@
 # git commit -m "FirstCommit"
 # git status
 # git push -u origin keshavkummari
+
+Do ssh to Linux Server : 
+# cd /home/ec2-user
+# cd devops-cognixia-8am
+# ls -lrta
+# git status
+# git branch
+# git fetch
+# git pull
+# git branch
+# git status
