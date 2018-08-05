@@ -1,0 +1,26 @@
+# ssh-keygen -t rsa -b 4096 -C "keshav.kummari@gmail.com"
+# ls -lrt /home/ec2-user/.ssh/id_rsa.pub 
+# cat /home/ec2-user/.ssh/id_rsa.pub 
+# eval "$(ssh-agent -s)"
+# ssh-add -k ~/.ssh/id_rsa
+# ssh -T git@github.com
+# git config --global user.name "keshavkummari"
+# git config --global user.email "keshav.kummari@gmail.com"
+# git clone https://github.com/keshavkummari/devops-cognixia-8am.git
+# ls -lrt
+# cd devops-cognixia-8am/
+# ls -lrta
+# git status
+# git branch
+# git branch keshavkummari
+# git branch
+# git checkout keshavkummari
+# git branch
+# ls -lrta
+# vi devops-cicd-pipeline.txt
+# git status
+# git add .
+# git status
+# git commit -m "FirstCommit"
+# git status
+# git push -u origin keshavkummari
